@@ -1,7 +1,7 @@
 public class MethodOverloadingSession {
 	public static void main(String[] args) {
         collegeRegister(20241);
-        collegeRegister("Aijesh");
+        collegeRegister("Rijesh");
         collegeRegister("Shiva", 52);
         collegeRegister(20242, "Shiva");
 
